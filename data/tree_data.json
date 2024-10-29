@@ -1,0 +1,5 @@
+[
+    {"lat": 51.505, "lng": -0.09, "name": "Tree A", "image": "tree_a.jpg"},
+    {"lat": 51.515, "lng": -0.1, "name": "Tree B", "image": "tree_b.jpg"},
+    {"lat": 51.525, "lng": -0.11, "name": "Tree C", "image": "tree_c.jpg"}
+]
